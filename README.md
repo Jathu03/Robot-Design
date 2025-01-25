@@ -1,2 +1,1 @@
-# Robot-Design
-Line following and wall following Robot design in both software and hardware
+# EN2533-Robotics-Design-and-Competition
